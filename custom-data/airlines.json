@@ -1669,4 +1669,16 @@
     "callsign": "AXIOM",
     "virtual": true
   }
+  {
+    "icao": "CXA",
+    "name": "Canadian Xpress",
+    "callsign": "CANADIAN XPRESS",
+    "virtual": true
+  }
+  {
+    "icao": "CFC",
+    "name": "vRCAF",
+    "callsign": "CANFORCE",
+    "virtual": true
+  }
 ]
